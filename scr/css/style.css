@@ -1,0 +1,102 @@
+.container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background: url(/scr/images/bg-repeat.jpg);
+    background-size: contain;
+    gap: 60px;
+}
+
+.text-box {
+    aspect-ratio: 300 / 111;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    height: 22vh;
+}
+
+.message {
+    aspect-ratio: 287 / 46;
+    font-size: 4vh;
+    font-weight: 900;
+    width: fit-content;
+}
+
+.description {
+    aspect-ratio: 300 / 54;
+    font-size: 3vh;
+    font-weight: 400;
+}
+
+.form {
+    aspect-ratio: 340 / 378;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    height: 65vh;
+    padding: 20px;
+    gap: 7px;
+}
+
+.input {
+    border: 2px solid #000;
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 2.5vh;
+    vertical-align:top;
+}
+
+.info-box {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.required-input {
+    color: #F52E2E;
+    font-size: 1.3vh;
+    position: absolute;
+    bottom: -13px;
+    display: none;
+}
+
+.input::placeholder {
+    color: #A8A8A8; 
+}
+
+.message-box {
+    height: 100%;
+    margin-bottom: 5px;
+}
+
+.message-box input {
+    height: 100%;
+}
+
+.message-box input::placeholder{
+    position: absolute;
+    top: 15px;  
+    transform: translateY(-20%);
+}
+
+.subtitle {
+    font-size: 2.5vh;
+    left: -10px;
+}
+
+.send {
+    border: 0px;
+    background-color: #3CCC87;
+    color: #fff;
+    text-align: top;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+
+
