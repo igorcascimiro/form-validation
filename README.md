@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshots
 
-![Animação-desktop](https://github.com/igorcascimiro/form-validation/assets/138637092/9736c6c3-06dd-4802-b01f-1a9ffc091d9b)
+![Animação-desktop](https://github.com/igorcascimiro/form-validation/assets/138637092/0ad1afe4-6168-44a2-9fee-cfdfacf460ba)
 
 *As mentioned, because this is a Javascript exercise, there was no alternative screensize options made.*
 
