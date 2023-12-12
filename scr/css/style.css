@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
-    background: url(./images/bg-repeat.jpg);
+    background: url(../images/bg-repeat.jpg);
     background-size: contain;
     gap: 60px;
 }
