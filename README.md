@@ -1,9 +1,5 @@
 # Private Exercise - Form Validation
-The focus of this exercise was to learn and practice Javascript. *So there's no alternate screensize options.* For CSS focused repositories please check the following:
-1. https://github.com/igorcascimiro/intro-section-with-dropdown-navigation
-2. https://github.com/igorcascimiro/huddle-landing-page
-3. https://github.com/igorcascimiro/x-men-szpc
-4. https://github.com/igorcascimiro/avengers-szpc
+The focus of this exercise was to learn and practice Javascript by developing a form and validating it's answers. 
 
 ## Overview
 
@@ -18,7 +14,8 @@ Users should be able to:
 
 ![Animação-desktop](https://github.com/igorcascimiro/form-validation/assets/138637092/0ad1afe4-6168-44a2-9fee-cfdfacf460ba)
 
-*As mentioned, because this is a Javascript exercise, there was no alternative screensize options made.*
+Responsive designs:
+![image](https://github.com/igorcascimiro/form-validation/assets/138637092/eb6504fd-1a47-43c7-ad3d-a4f96083381b)
 
 ### Built with
 
