@@ -47,7 +47,13 @@
     border-radius: 5px;
     font-weight: 700;
     font-size: 2.5vh;
-    vertical-align:top;
+}
+
+.send {
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 2.5vh;
 }
 
 .info-box {
@@ -74,14 +80,13 @@
     margin-bottom: 5px;
 }
 
-.message-box input {
+.message-box textarea {
     height: 100%;
 }
 
-.message-box input::placeholder{
-    position: absolute;
-    top: 15px;  
-    transform: translateY(-20%);
+textarea {
+    resize: none;
+    font-family: 'Roboto', sans-serif;
 }
 
 .subtitle {
@@ -96,7 +101,10 @@
     text-align: top;
     cursor: pointer;
     margin-top: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 2.5vh;
 }
-
 
 
