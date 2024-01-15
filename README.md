@@ -1,4 +1,4 @@
-# Private Exercise - Form Validation
+# Form Validation - Exercise
 The focus of this exercise was to learn and practice Javascript by developing a form and validating it's answers. 
 
 ## Overview
